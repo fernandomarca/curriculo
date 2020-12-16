@@ -91,4 +91,4 @@ Para aprendizagem contínua, estou estudando engenharia de software e me capacit
 
   
 Sentiu falta de algo importante em meu currículo?  
-[Envie-me uma mensagem ]((mailto:fmmagalhaes.eng@hotmail.com)) e ajude-me a melhora-lo.
+[Envie-me uma mensagem ](mailto:fmmagalhaes.eng@hotmail.com) e ajude-me a melhora-lo.
