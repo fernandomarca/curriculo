@@ -13,8 +13,6 @@ Desenvolvi vários projetos web, mobile e de interfaces tipo homem/máquina (IHM
 <br>
 
 ### EXPERIÊNCIA
-<br>
-
 ### Fundador & Full Stack Developer
 Na [FM Magalhães](https://fmmagalhaes.com.br/)
 
@@ -63,7 +61,7 @@ Janeiro 2013 - Novembro 2018
 
 <br>
 
-#### EDUCAÇÃO
+### EDUCAÇÃO
 <br>
 <p><b>Bacharel em Engenharia de Software</b></p>
 
@@ -81,7 +79,6 @@ Janeiro 2013 - Novembro 2018
 <p><b>Bacharel em Engenharia Civil</b></p>
 
 [Centro universitário Assis Gurgacz, FAG](https://www.fag.edu.br/) 2007 - 2012.
-
 
 ### RESUMO 
 
