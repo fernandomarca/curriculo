@@ -8,8 +8,19 @@ Email: [fmmagalhaes.eng@hotmail.com](mailto:fmmagalhaes.eng@hotmail.com) <br>
 Linkedin: [https://www.linkedin.com/in/fernandomarcamagalhaes](https://www.linkedin.com/in/fernandomarcamagalhaes) 
 <br>
 ### INFORMAÇÃO PESSOAL
-Trabalho como engenheiro desde 2012, junto a equipes multidisciplinares, no desenvolvimento e integração de projetos para controle e automação de casas inteligentes e também de automação industrial.
-Desenvolvi vários projetos web, mobile e de interfaces tipo homem/máquina (IHM) para projetos de automação que impactaram diversos clientes e consumidores, sempre preocupando-se com a experiência do usuário.
+Engenheiro desde 2012, trabalhando com equipes multidisciplinares, no desenvolvimento e integração de projetos para controle e automação de casas inteligentes e automação industrial.
+
+Experiência em desenvolvendo web desde 2005 como profissional técnico (web design). Entre 2005-2007 desenvolvedor web principal no exército brasileiro em Cascavel-PR. Experiência com interfaces IHM para projetos de automação.
+
+Em busca de ampliar o conhecimento entre 2015-2017 tornei-me especialista em engenharia mecatrônica, programando controladores lógicos programáveis (CLP).
+
+Atualmente sou full stack developer na stack React, React-native, NodeJS.
+
+Apaixonado pela aplicação do conhecimento tecnológico adquiridos até o momento tenho interesse em projetos desafiadores e inovadores.
+Para a aprendizagem contínua e manter-me atualizado, sempre busco qualificação e capacitação especializada nas tecnologias de interesse.
+
+Experiência em desenvolvimento web e mobile com as tecnologias: JavaScript, Typescript, React, React-Native, NextJs, NodeJs, NestJs, Rust.
+
 <br>
 
 ### EXPERIÊNCIA
