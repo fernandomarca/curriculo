@@ -39,7 +39,7 @@ Experiência / Conhecimento em:
 13. Dados com Python e Pandas, Jupyter notbook e Plotly;
 14. Conhecimento de Python com TensorFlow, Sklearn, Numpy para Machine Learning;
 
-Git: <https://github.com/fernandomarca>
+Git: [https://github.com/fernandomarca](https://github.com/fernandomarca)
 
 <br>
 
@@ -47,7 +47,7 @@ Git: <https://github.com/fernandomarca>
 
 ### Engenheiro de software sênior
 
-Na Ghelere Transportes `<br>`
+Na Ghelere Transportes
 Competências: Microsserviços · Desenvolvimento web
 
 A Ghelere Transportes é uma empresa de logística.
@@ -67,7 +67,7 @@ Tenho atuado na empresa como full stack developer, no desenvolvimento de aplica�
 
 ### Tech Lead
 
-Na RGB AUTOMATION INSDUSTRIAL `<br>`
+Na RGB AUTOMATION INSDUSTRIAL
 Competências: Microsserviços · Desenvolvimento web · Mecatrônica
 
 A RGB Automation é uma empresa de engenharia mecatrônica americana especializada em projetos de automação industrial.
@@ -87,7 +87,7 @@ Tenho atuado na empresa como full stack developer, no desenvolvimento de aplica�
 
 ### Analista de sistemas sênior
 
-No Grupo Taking `<br>`
+No Grupo Taking
 Competências: Microsserviços · Desenvolvimento web
 
 O Grupo Taking é uma empresa de tecnologia.
@@ -164,18 +164,19 @@ Janeiro 2013 - Novembro 2018
 
 [Full Cycle](https://fullcycle.com.br/) 2025 – 2026.
 
-`<br>`
+<br>
 
 <p><b>Bacharel em Engenharia de Software</b></p>
 
 [Estacio](https://portal.estacio.br/) 2020 – 2024.
 
-`<br>`
+<br>
 
 <p><b>Pós-graduação em Engenharia Mecatrônica</b></p>
 
 [UniCesumar](https://www.unicesumar.edu.br/home/) 2015 - 2016.
-`<br>`
+
+<br>
 
 <p><b>Bacharel em Engenharia Civil</b></p>
 
