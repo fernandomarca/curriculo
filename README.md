@@ -1,63 +1,105 @@
-# Fernando Marca Magalhães (currículo)
+# Fernando Marca Magalhães
 
 <img src="./assets/avatar.png" />
 
-Local: Cascavel - Paraná | Idade: 35 anos
+Local: Cascavel - Paraná | Idade: 38 anos
 
 Email: [fmmagalhaes.eng@hotmail.com](mailto:fmmagalhaes.eng@hotmail.com)
 Linkedin: [https://www.linkedin.com/in/fernandomarcamagalhaes](https://www.linkedin.com/in/fernandomarcamagalhaes)
 
 ### INFORMAÇÃO PESSOAL
 
-Experiência em trabalhar com equipes multidisciplinares, no desenvolvimento de aplicações (back-end/front-end) para integração de projetos de automação.
+Experiência em trabalhar com equipes multidisciplinares, no desenvolvimento de aplicações back-end e front-end.
 
-Atualmente full stack developer na RGB AUTOMATION com experiência em:
+- Formação em engenharia de software com especialização em engenharia mecatrônica.
+- MBA em Arquitetura Full Cycle: Arquitetura de soluções - Arquitetura de software - DevOPS e SRE
 
-- front-end: React, React-native, integração React-Tauri-Rust para desktop.
-- back-end: Nodejs, Go, Rust.
-- Formação especializada em engenharia mecatrônica para programação de controladores lógicos programáveis (CLP).
+Experiência em:
+
+- front-end: React, React-native, integração React-Tauri-Rust.
+- back-end: Nodejs, Rust, Java
+- Programação de controladores lógicos programáveis (CLP).
 
 Apaixonado pela aplicação do conhecimento tecnológico, tenho interesse em projetos desafiadores e inovadores.
 
 Experiência / Conhecimento em:
 
-1. Frameworks para webserver/microserviços: Nestjs, Express, Rocket.rs, Actix.rs entre outros.
+1. Frameworks para webserver/microserviços: Nestjs, Express, Actix.rs entre outros.
 2. Frameworks para web/mobile: React, React-native.
-3. Integração do banco de dados com sistema SCADA (Eclipe, ScadaBR)
+3. Conhecimento em Opentelemetry, Jaeger, Prometheus, Grafana, Kibana.
 4. Conhecimento avançado em Docker (Linux ou WSL2 Windows).
-5. Gerenciador de banco de dados Relacional: PostgresSQL, MySQL, SQLite, SQL Server;
+5. Gerenciador de banco de dados Relacional: PostgresSQL, MySQL, SQL Server;
 6. Gerenciador de banco de dados não relacional: MongoDB, Firebase;
-7. Gerenciador de mensageria: Kafka, RabbitMQ, Mqtt, Redis;
-8. Clould: AWS, Azure, Heroku, Digital Ocean;
-9. Aquisição de dados não estruturados, utilizando Puppeteer e Cheerio para webscrapping;
-10. Conhecimento de Kubernets;
-11. Conhecimento em analise de dados com Python e Pandas, Jupyter notbook e Plotly;
-12. Conhecimento de Python com TensorFlow, Sklearn, Numpy para Machine Learning;
+7. Gerenciador de banco de dados NoSql Colunar: Apache Cassandra;
+8. Gerenciador de banco de dados NoSql em grafo: Neo4j;
+9. Gerenciador de mensageria: Kafka, RabbitMQ, Mqtt, Redis;
+10. Clould: AWS, Azure, GCP, Digital Ocean;
+11. Aquisição de dados não estruturados com webscrapping;
+12. Kubernets;
+13. Dados com Python e Pandas, Jupyter notbook e Plotly;
+14. Conhecimento de Python com TensorFlow, Sklearn, Numpy para Machine Learning;
 
-Git: https://github.com/fernandomarca
+Git: <https://github.com/fernandomarca>
 
 <br>
 
 ### EXPERIÊNCIA
 
+### Engenheiro de software sênior
+
+Na Ghelere Transportes `<br>`
+Competências: Microsserviços · Desenvolvimento web
+
+A Ghelere Transportes é uma empresa de logística.
+
+<ul>
+    <li>
+Tenho atuado na empresa como full stack developer, no desenvolvimento de aplicações back-end e front-end.
+<p>Na construção das aplicações, utiliza-se diversas tecnológias principalmente Rust, Typescript, Java, Python.</p>
+<p>Complementar a toda a estrutura de trabalho existente, utiliza-se também a implementação de microserviços em Cloud utilizando serviços como Azure Service Bus, RabbitMQ, Redis, Postgres.</p>
+
+</li>
+    <b>Tecnologias utilizadas:</b>
+    <p>HTML, CSS, React, NodeJs, Nestjs, Actix, Axum.</p>
+    </li>
+</ul>
 <br>
 
-### Software Developer
+### Tech Lead
 
-Na RGB AUTOMATION INSDUSTRIAL <br>
+Na RGB AUTOMATION INSDUSTRIAL `<br>`
 Competências: Microsserviços · Desenvolvimento web · Mecatrônica
 
 A RGB Automation é uma empresa de engenharia mecatrônica americana especializada em projetos de automação industrial.
 
 <ul>
     <li>
-Tenho atuado na empresa como full stack developer, no desenvolvimento de aplicações web back-end e front-end para integração da industria à sistemas modernos de monitoramento customizados (dashboards). 
+Tenho atuado na empresa como full stack developer, no desenvolvimento de aplicações web back-end e front-end para integração da industria à sistemas modernos de monitoramento customizados (dashboards).
 <p>Na construção das aplicações, utiliza-se diversas tecnológias principalmente a stack javascript Nodejs e Reactjs.</p>
 <p>Em projetos específicos e complementar a toda a estrutura de trabalho existente, utiliza-se também a implementação de microserviços em Go e/ou Rust com gerenciamento de mensageria utilizando Kafka, RabbitMQ, Mqtt, Redis.</p>
 
 </li>
     <b>Tecnologias utilizadas:</b>
     <p>HTML, CSS, React, NodeJs, Nestjs,Node-red, Tauri, MongoDb, Sqlite, Knex, Redis, Arduino, Raspi, kafka, Mqtt.</p>
+    </li>
+</ul>
+<br>
+
+### Analista de sistemas sênior
+
+No Grupo Taking `<br>`
+Competências: Microsserviços · Desenvolvimento web
+
+O Grupo Taking é uma empresa de tecnologia.
+
+<ul>
+    <li>
+Tenho atuado na empresa como full stack developer, no desenvolvimento de aplicações back-end e front-end.
+<p>Na construção das aplicações, utiliza-se diversas tecnológias principalmente Typescript, Python.</p>
+
+</li>
+    <b>Tecnologias utilizadas:</b>
+    <p>HTML, CSS, React, NodeJs, Nestjs, FastApi.</p>
     </li>
 </ul>
 <br>
@@ -76,7 +118,7 @@ Novembro 2018
 
 </li>
     <li>
-    Implantação e configuração do sistema Fibaro System e Arduino programados em C/C++. 
+    Implantação e configuração do sistema Fibaro System e Arduino programados em C/C++.
     Como interface do usuário nos sistemas com Arduino ou CLP´s, utilizou-se Java UI Scada, tanto para os projetos de automação residencial, comercial e industrial.
     </li>
     <li>
@@ -118,24 +160,22 @@ Janeiro 2013 - Novembro 2018
 
 <br>
 
-**Formação Full Cycle developer**
+**MBA Arquitetura Full Cycle**
 
-[Full Cycle](https://fullcycle.com.br/) 2022 – 2022.<br>
+[Full Cycle](https://fullcycle.com.br/) 2025 – 2026.
+
+`<br>`
 
 <p><b>Bacharel em Engenharia de Software</b></p>
 
-[Estacio](https://portal.estacio.br/) 2020 – 2023.
-<br>
+[Estacio](https://portal.estacio.br/) 2020 – 2024.
 
-<p><b>Treinamento de aceleração Bootcamp gostack</b></p>
+`<br>`
 
-[Rocketseat](https://rocketseat.com.br/) 2020 - 2020.
-<br>
+<p><b>Pós-graduação em Engenharia Mecatrônica</b></p>
 
-<p><b>Pós-graduado em Engenharia Mecatrônica</b></p>
-
-[UniCesumar](https://www.unicesumar.edu.br/home/) 2015 - 2017.
-<br>
+[UniCesumar](https://www.unicesumar.edu.br/home/) 2015 - 2016.
+`<br>`
 
 <p><b>Bacharel em Engenharia Civil</b></p>
 
@@ -147,10 +187,7 @@ Janeiro 2013 - Novembro 2018
 
 <br>
 
-Desde 2005, tenho desenvolvido aplicações web, em projetos atuais trabalhando com a stack React, React-native e NodeJs e diversas outras tecnologias de mensageria para microserviços.
-Sempre busco ampliar meus conhecimentos, por meio de especializações como em engenharia mecatrônica, que me capacitou a programar interfaces homem/máquina (IHM) para controle de dispositivos de automação e para programação de controladores lógicos programáveis (CLP), ou por formações e treinamentos técnicos.
+Desde 2005, tenho desenvolvido aplicações web, em projetos atuais trabalhando com React, React-native e NodeJs e diversas outras tecnologias para microserviços.
+Sempre busco ampliar meus conhecimentos, por meio de especializações como em engenharia mecatrônica ou por formações e treinamentos técnicos.
 
 Apaixonado pela aplicação do conhecimento tecnológico adquiridos até o momento, sempre busco qualificação técnica necessária para manter-me atualizado para o mercado atual.
-
-Sentiu falta de algo importante em meu currículo?
-[Envie-me uma mensagem ](mailto:fmmagalhaes.eng@hotmail.com) e ajude-me a melhora-lo.
